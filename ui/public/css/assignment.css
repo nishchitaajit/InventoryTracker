@@ -1,0 +1,36 @@
+label{
+  display: inline-block;
+  width: 100px;
+}
+
+select{
+  width:120px;
+  height:25px ;
+  margin: 5px;
+}
+
+input{
+  width:120px;
+  height:30px ;
+  margin: 5px;
+}
+
+NumInput{
+  width:120px;
+  height:30px ;
+  margin: 5px;
+}
+
+TextInput{
+  width:120px;
+  height:30px ;
+  margin: 5px;
+}
+
+.navbar,
+.navbar-default {
+    background-color: rgb(223, 234, 221) !important; /* override background image gradient w/ flat color */
+}
+.listPanel {
+  background-color: rgb(215, 213, 227) !important;
+}
